@@ -1,7 +1,7 @@
 {
-  "name": "roblox-autojoin-api",
+  "name": "api",
   "version": "1.0.0",
-  "description": "API para auto-join de Roblox",
+  "description": "API",
   "main": "api/teleport.js",
   "scripts": {
     "dev": "vercel dev"
