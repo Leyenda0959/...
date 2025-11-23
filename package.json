@@ -1,15 +1,15 @@
 {
-  "name": "r\u006F\u0062l\x6F\u{00078}\u002d\x61\u{00075}t\u{0006F}\u006a\u{0006f}i\u006e\x2d\u{00061}pi",
-  "version": "1\x2e\u0030.\u0030",
-  "description": "\x41\x50\u0049 \u0070\u{00061}\u0072\u0061\u0020\x61u\u{00074}\u006f-\u006A\u006F\x69\u{0006E}\x20d\x65\u0020R\x6f\u0062\u{0006C}\x6F\x78",
-  "main": "\u{00061}\u0070\u{00069}\u002Ft\u{00065}\u006C\u0065p\x6f\u0072\u0074\u002ej\x73",
+  "name": "roblox-autojoin-api",
+  "version": "1.0.0",
+  "description": "API para auto-join de Roblox",
+  "main": "api/teleport.js",
   "scripts": {
-    "dev": "v\u0065r\u0063\x65\x6c\u0020\u{00064}\u0065v"
+    "dev": "vercel dev"
   },
   "dependencies": {
-    "axios": "\u005e1.\u{00036}\u002e0"
+    "axios": "^1.6.0"
   },
   "engines": {
-    "node": "\x32\u{00032}\u002e\x78"
+    "node": "22.x"
   }
 }
